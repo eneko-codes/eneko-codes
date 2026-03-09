@@ -14,7 +14,7 @@ Software developer from San Sebastián, Spain. Building [@Selvo-AI](https://gith
 #### Frameworks & Libraries
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
-![Nuxt](https://img.shields.io/badge/nuxt-%2300DC82.svg?style=flat&logo=nuxtdotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/nuxt-%2300DC82.svg?style=flat&logo=nuxt&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
 #### Infrastructure & Tools
