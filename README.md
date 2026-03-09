@@ -27,4 +27,4 @@ Software developer from San Sebastián, Spain. Building [@Selvo-AI](https://gith
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eneko-codes&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=eneko-codes&theme=dark&hide_border=true)
