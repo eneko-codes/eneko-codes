@@ -1,6 +1,6 @@
 ### Hey, I'm Eneko 👋
 
-Laravel developer from San Sebastián, Spain. Building [@Selvo-AI](https://github.com/Selvo-AI).
+Software developer from San Sebastián, Spain. Building [@Selvo-AI](https://github.com/Selvo-AI).
 
 #### Languages
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
