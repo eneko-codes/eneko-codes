@@ -24,7 +24,3 @@ Software developer from San Sebastián, Spain. Building [@Selvo-AI](https://gith
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
-
----
-
-![GitHub Stats](https://streak-stats.demolab.com?user=eneko-codes&theme=dark&hide_border=true)
