@@ -17,32 +17,42 @@ Local [MCP](https://modelcontextprotocol.io) servers connecting Claude to native
 <table width="100%">
 <tr>
 
-<td align="center" width="16.66%"><a href="https://github.com/eneko-codes/apple-filesystem-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-filesystem-mcp/main/extension/icon.png" width="72" height="72" alt=""><br><sub><b>apple-filesystem-mcp</b></sub></a></td>
-<td align="center" width="16.66%"><a href="https://github.com/eneko-codes/apple-spotlight-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-spotlight-mcp/main/extension/icon.png" width="72" height="72" alt=""><br><sub><b>apple-spotlight-mcp</b></sub></a></td>
-<td align="center" width="16.66%"><a href="https://github.com/eneko-codes/apple-pdf-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-pdf-mcp/main/extension/icon.png" width="72" height="72" alt=""><br><sub><b>apple-pdf-mcp</b></sub></a></td>
-<td align="center" width="16.66%"><a href="https://github.com/eneko-codes/apple-vision-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-vision-mcp/main/extension/icon.png" width="72" height="72" alt=""><br><sub><b>apple-vision-mcp</b></sub></a></td>
-<td align="center" width="16.66%"><a href="https://github.com/eneko-codes/apple-screenshots-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-screenshots-mcp/main/extension/icon.png" width="72" height="72" alt=""><br><sub><b>apple-screenshots-mcp</b></sub></a></td>
-<td align="center" width="16.66%"><a href="https://github.com/eneko-codes/apple-mail-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-mail-mcp/main/extension/icon.png" width="72" height="72" alt=""><br><sub><b>apple-mail-mcp</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/eneko-codes/apple-filesystem-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-filesystem-mcp/main/extension/icon.png" width="64" height="64" alt=""><br><sub><b>apple-filesystem-mcp</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/eneko-codes/apple-spotlight-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-spotlight-mcp/main/extension/icon.png" width="64" height="64" alt=""><br><sub><b>apple-spotlight-mcp</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/eneko-codes/apple-pdf-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-pdf-mcp/main/extension/icon.png" width="64" height="64" alt=""><br><sub><b>apple-pdf-mcp</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/eneko-codes/apple-vision-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-vision-mcp/main/extension/icon.png" width="64" height="64" alt=""><br><sub><b>apple-vision-mcp</b></sub></a></td>
 
 </tr>
 <tr>
 
-<td align="center" width="16.66%"><a href="https://github.com/eneko-codes/apple-messages-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-messages-mcp/main/extension/icon.png" width="72" height="72" alt=""><br><sub><b>apple-messages-mcp</b></sub></a></td>
-<td align="center" width="16.66%"><a href="https://github.com/eneko-codes/whatsapp-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/whatsapp-mcp/main/extension/icon.png" width="72" height="72" alt=""><br><sub><b>whatsapp-mcp</b></sub></a></td>
-<td align="center" width="16.66%"><a href="https://github.com/eneko-codes/apple-calendar-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-calendar-mcp/main/extension/icon.png" width="72" height="72" alt=""><br><sub><b>apple-calendar-mcp</b></sub></a></td>
-<td align="center" width="16.66%"><a href="https://github.com/eneko-codes/apple-contacts-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-contacts-mcp/main/extension/icon.png" width="72" height="72" alt=""><br><sub><b>apple-contacts-mcp</b></sub></a></td>
-<td align="center" width="16.66%"><a href="https://github.com/eneko-codes/apple-reminders-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-reminders-mcp/main/extension/icon.png" width="72" height="72" alt=""><br><sub><b>apple-reminders-mcp</b></sub></a></td>
-<td align="center" width="16.66%"><a href="https://github.com/eneko-codes/apple-notes-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-notes-mcp/main/extension/icon.png" width="72" height="72" alt=""><br><sub><b>apple-notes-mcp</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/eneko-codes/apple-screenshots-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-screenshots-mcp/main/extension/icon.png" width="64" height="64" alt=""><br><sub><b>apple-screenshots-mcp</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/eneko-codes/apple-mail-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-mail-mcp/main/extension/icon.png" width="64" height="64" alt=""><br><sub><b>apple-mail-mcp</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/eneko-codes/apple-messages-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-messages-mcp/main/extension/icon.png" width="64" height="64" alt=""><br><sub><b>apple-messages-mcp</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/eneko-codes/whatsapp-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/whatsapp-mcp/main/extension/icon.png" width="64" height="64" alt=""><br><sub><b>whatsapp-mcp</b></sub></a></td>
 
 </tr>
 <tr>
 
-<td align="center" width="16.66%"><a href="https://github.com/eneko-codes/apple-music-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-music-mcp/main/extension/icon.png" width="72" height="72" alt=""><br><sub><b>apple-music-mcp</b></sub></a></td>
-<td align="center" width="16.66%"><a href="https://github.com/eneko-codes/apple-voicememos-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-voicememos-mcp/main/extension/icon.png" width="72" height="72" alt=""><br><sub><b>apple-voicememos-mcp</b></sub></a></td>
-<td align="center" width="16.66%"><a href="https://github.com/eneko-codes/apple-shortcuts-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-shortcuts-mcp/main/extension/icon.png" width="72" height="72" alt=""><br><sub><b>apple-shortcuts-mcp</b></sub></a></td>
-<td align="center" width="16.66%"><a href="https://github.com/eneko-codes/apple-safari-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-safari-mcp/main/extension/icon.png" width="72" height="72" alt=""><br><sub><b>apple-safari-mcp</b></sub></a></td>
-<td align="center" width="16.66%"><a href="https://github.com/eneko-codes/indexa-capital-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/indexa-capital-mcp/main/extension/icon.png" width="72" height="72" alt=""><br><sub><b>indexa-capital-mcp</b></sub></a></td>
-<td width="16.66%"></td>
+<td align="center" width="25%"><a href="https://github.com/eneko-codes/apple-calendar-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-calendar-mcp/main/extension/icon.png" width="64" height="64" alt=""><br><sub><b>apple-calendar-mcp</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/eneko-codes/apple-contacts-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-contacts-mcp/main/extension/icon.png" width="64" height="64" alt=""><br><sub><b>apple-contacts-mcp</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/eneko-codes/apple-reminders-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-reminders-mcp/main/extension/icon.png" width="64" height="64" alt=""><br><sub><b>apple-reminders-mcp</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/eneko-codes/apple-notes-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-notes-mcp/main/extension/icon.png" width="64" height="64" alt=""><br><sub><b>apple-notes-mcp</b></sub></a></td>
+
+</tr>
+<tr>
+
+<td align="center" width="25%"><a href="https://github.com/eneko-codes/apple-music-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-music-mcp/main/extension/icon.png" width="64" height="64" alt=""><br><sub><b>apple-music-mcp</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/eneko-codes/apple-voicememos-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-voicememos-mcp/main/extension/icon.png" width="64" height="64" alt=""><br><sub><b>apple-voicememos-mcp</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/eneko-codes/apple-shortcuts-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-shortcuts-mcp/main/extension/icon.png" width="64" height="64" alt=""><br><sub><b>apple-shortcuts-mcp</b></sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/eneko-codes/apple-safari-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/apple-safari-mcp/main/extension/icon.png" width="64" height="64" alt=""><br><sub><b>apple-safari-mcp</b></sub></a></td>
+
+</tr>
+<tr>
+
+<td align="center" width="25%"><a href="https://github.com/eneko-codes/indexa-capital-mcp"><img src="https://raw.githubusercontent.com/eneko-codes/indexa-capital-mcp/main/extension/icon.png" width="64" height="64" alt=""><br><sub><b>indexa-capital-mcp</b></sub></a></td>
+<td width="25%"></td>
+<td width="25%"></td>
+<td width="25%"></td>
 
 </tr>
 </table>
